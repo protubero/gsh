@@ -55,9 +55,7 @@ Der Aufruf von der Kommandzeile dauert einige Zeit, da jedesmal die Java VM star
     
     println "The text is: " + text
 
-Session
 
-![Beispiel-Session](shell-example.png)
 
 ## Known Limitations/Bugs
 
